@@ -1,0 +1,10 @@
+#about-me, .stack-item {
+    justify-items: center;
+    align-items: center;
+}
+
+.stack-item {
+    padding: 1em;
+    border-radius: 1em;
+    background-color: #DEFC85;
+}
